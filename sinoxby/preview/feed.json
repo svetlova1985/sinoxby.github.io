@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sinoxby",
+    "description": "",
+    "home_page_url": "file://G:\src\content\sinoxby.github.io\sinoxby\preview",
+    "feed_url": "file://G:\src\content\sinoxby.github.io\sinoxby\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "elena svetlova"
+    },
+    "items": [
+        {
+            "id": "file://G:\src\content\sinoxby.github.io\sinoxby\preview/nerzhaveyushchiy-metalloprokat.html",
+            "url": "file://G:\src\content\sinoxby.github.io\sinoxby\preview/nerzhaveyushchiy-metalloprokat.html",
+            "title": "Нержавеющий металлопрокат",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-08T17:11:05+03:00",
+            "date_modified": "2019-07-08T17:12:29+03:00"
+        },
+        {
+            "id": "file://G:\src\content\sinoxby.github.io\sinoxby\preview/main-page-with-menus.html",
+            "url": "file://G:\src\content\sinoxby.github.io\sinoxby\preview/main-page-with-menus.html",
+            "title": "О компании",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-08T17:04:08+03:00",
+            "date_modified": "2019-07-08T17:12:24+03:00"
+        }
+    ]
+}
