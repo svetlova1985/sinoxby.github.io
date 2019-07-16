@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/</loc>
+</url>
+<url>
+<loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html</loc>
+<lastmod>2019-07-08T19:17:56+03:00</lastmod>
+</url>
+<url>
+<loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html</loc>
+<lastmod>2019-07-16T19:52:59+03:00</lastmod>
+<image:image>
+<image:loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media\posts\5/truba.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html</loc>
+<lastmod>2019-07-08T19:12:49+03:00</lastmod>
+<image:image>
+<image:loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media\posts\1/2018860-150x150.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://bfsi.by/wp-content/uploads/2018/11/2018860-150x150.jpeg</image:loc>
+<image:title><![CDATA[Алюминий]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html</loc>
+<lastmod>2019-07-16T19:51:24+03:00</lastmod>
+<image:image>
+<image:loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media\posts\2/truba.jpg</image:loc>
+<image:title><![CDATA[ВФЫВВФЫВ]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html</loc>
+<lastmod>2019-07-16T19:52:28+03:00</lastmod>
+<image:image>
+<image:loc>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media\posts\4/truba.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

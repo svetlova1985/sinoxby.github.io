@@ -1,0 +1,81 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "sinoxby",
+    "description": "",
+    "home_page_url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview",
+    "feed_url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "elena svetlova"
+    },
+    "items": [
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html",
+            "title": "круг",
+            "summary": "цуйцу ",
+            "content_html": "<p>цуйцу</p>\n<p><img class=\"post__image\" src=\"file://C:\\Users\\Лена\\Documents\\Publii\\sites\\sinox\\preview/media/posts/5/truba.jpg\" alt=\"\" width=\"11\" height=\"100\"></p>",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-16T19:49:29+03:00",
+            "date_modified": "2019-07-16T19:52:59+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html",
+            "title": "труба",
+            "content_html": "<img class=\"post__image\" src=\"file://C:\\Users\\Лена\\Documents\\Publii\\sites\\sinox\\preview/media/posts/4/truba.jpg\" alt=\"\" width=\"11\" height=\"100\">",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-16T19:43:20+03:00",
+            "date_modified": "2019-07-16T19:52:28+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html",
+            "title": "Калькулятор металла",
+            "content_html": "<iframe width=\"300px\" height=\"400px\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://metallicheckiy-portal.ru/servis/calcn.php?stil=5&amp;pmet=st&amp;pprok=protru\"></iframe>",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-08T19:16:11+03:00",
+            "date_modified": "2019-07-08T19:17:56+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html",
+            "title": "Нержавеющий металлопрокат",
+            "summary": "qwqwpoqoweqwew труба фывывфвфыв",
+            "content_html": "<p>qwqwpoqoweqwew</p>\n<a href=\"truba.html\" title=\"труба\"><img src=\"file://C:\\Users\\Лена\\Documents\\Publii\\sites\\sinox\\preview/media/posts/2/truba.jpg\" alt=\"ВФЫВВФЫВ\" width=\"11\" height=\"100\"></a>\n<p><a href=\"truba.html\" title=\"цуйу\">труба</a></p>\n<p> </p>\n<h2 id=\"mcetoc_1dftr1o8e0\"><a href=\"#INTERNAL_LINK#/tag/1\">фывывфвфыв</a></h2>",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-08T17:11:05+03:00",
+            "date_modified": "2019-07-16T19:51:24+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html",
+            "title": "Главная",
+            "content_html": "<img class=\"post__image\" src=\"https://bfsi.by/wp-content/uploads/2018/11/2018860-150x150.jpeg\" alt=\"Алюминий\" width=\"150\" height=\"150\">",
+            "image": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media/posts/1/2018860-150x150.jpeg",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-08T17:04:08+03:00",
+            "date_modified": "2019-07-08T19:12:49+03:00"
+        }
+    ]
+}

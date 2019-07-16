@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>sinoxby</title>
+    <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/feed.xml" rel="self" />
+    <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview" />
+    <updated>2019-07-16T19:53:08+03:00</updated>
+    <author>
+        <name>elena svetlova</name>
+    </author>
+    <id>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview</id>
+
+    <entry>
+        <title>круг</title>
+        <author>
+            <name>elena svetlova</name>
+        </author>
+        <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html"/>
+        <id>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html</id>
+
+        <updated>2019-07-16T19:52:59+03:00</updated>
+            <summary>
+                <![CDATA[
+                    цуйцу 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>цуйцу</p>
+<p><img class="post__image" src="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media/posts/5/truba.jpg" alt="" width="11" height="100"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>труба</title>
+        <author>
+            <name>elena svetlova</name>
+        </author>
+        <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html"/>
+        <id>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html</id>
+
+        <updated>2019-07-16T19:52:28+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <img class="post__image" src="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media/posts/4/truba.jpg" alt="" width="11" height="100">
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Калькулятор металла</title>
+        <author>
+            <name>elena svetlova</name>
+        </author>
+        <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html"/>
+        <id>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html</id>
+
+        <updated>2019-07-08T19:17:56+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <iframe width="300px" height="400px" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://metallicheckiy-portal.ru/servis/calcn.php?stil=5&amp;pmet=st&amp;pprok=protru"></iframe>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Нержавеющий металлопрокат</title>
+        <author>
+            <name>elena svetlova</name>
+        </author>
+        <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html"/>
+        <id>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html</id>
+
+        <updated>2019-07-16T19:51:24+03:00</updated>
+            <summary>
+                <![CDATA[
+                    qwqwpoqoweqwew труба фывывфвфыв
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>qwqwpoqoweqwew</p>
+<a href="truba.html" title="труба"><img src="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media/posts/2/truba.jpg" alt="ВФЫВВФЫВ" width="11" height="100"></a>
+<p><a href="truba.html" title="цуйу">труба</a></p>
+<p> </p>
+<h2 id="mcetoc_1dftr1o8e0"><a href="#INTERNAL_LINK#/tag/1">фывывфвфыв</a></h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Главная</title>
+        <author>
+            <name>elena svetlova</name>
+        </author>
+        <link href="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html"/>
+        <id>file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html</id>
+
+        <updated>2019-07-08T19:12:49+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media/posts/1/2018860-150x150.jpeg" alt="" />
+                <img class="post__image" src="https://bfsi.by/wp-content/uploads/2018/11/2018860-150x150.jpeg" alt="Алюминий" width="150" height="150">
+            ]]>
+        </content>
+    </entry>
+</feed>
