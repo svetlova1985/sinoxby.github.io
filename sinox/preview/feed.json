@@ -10,72 +10,132 @@
     },
     "items": [
         {
-            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html",
-            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/krug.html",
-            "title": "круг",
-            "summary": "цуйцу ",
-            "content_html": "<p>цуйцу</p>\n<p><img class=\"post__image\" src=\"file://C:\\Users\\Лена\\Documents\\Publii\\sites\\sinox\\preview/media/posts/5/truba.jpg\" alt=\"\" width=\"11\" height=\"100\"></p>",
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stal-bystrorezhushchaya.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stal-bystrorezhushchaya.html",
+            "title": "Сталь быстрорежущая",
+            "summary": "Изготовленный из быстрорежущей инструментальной стали инструмент обладает максимальной стабильностью при значительной нагрузки режущей кромки. Это позволяет изготавливать инструмент, в 3-5 раз прочнее, чем инструмент из обычной углеродистой стали. Перед цифрой идет буквенная маркировка. Буквы обозначают легирующий элемент и расшифровываются следующим образом: Технологические свойства и области применения быстрорежущих сталей&hellip;",
+            "content_html": "<p>Изготовленный из быстрорежущей инструментальной стали инструмент обладает максимальной стабильностью при значительной нагрузки режущей кромки. Это позволяет изготавливать инструмент, в 3-5 раз прочнее, чем инструмент из обычной углеродистой стали.</p>\n<p>Перед цифрой идет буквенная маркировка. Буквы обозначают легирующий элемент и расшифровываются следующим образом:</p>\n<ul>\n<li>Р - вольфрам;</li>\n<li>М - молибден;</li>\n<li>Ф - ваннадий;</li>\n<li>А - азот;</li>\n<li>К - кобальт;</li>\n<li>Т - титан;</li>\n<li>Ц - цирконий.</li>\n</ul>\n<p>Технологические свойства и области применения быстрорежущих сталей</p>\n<table style=\"width: 802px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"3\">\n<tbody>\n<tr>\n<th style=\"width: 147px;\" bgcolor=\"#CCCCCC\"><strong>Марка стали</strong></th>\n<th style=\"width: 188px;\" bgcolor=\"#CCCCCC\"><strong>Характерные физико-механические свойства</strong></th>\n<th style=\"width: 273px;\" bgcolor=\"#CCCCCC\"><strong>Область применения</strong></th>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р18</td>\n<td style=\"width: 188px;\">Удовлетворительная прочность, износосойкость при малых и средних скоростях резания</td>\n<td style=\"width: 273px;\">Для всех видов режущего инструмента при обработке углеродистых и легированных конструкционных сталей.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р12</td>\n<td style=\"width: 188px;\">Близкие к свойства стали Р18, но более высокие \"горячая\" пластичность и прочность, вязкость.</td>\n<td style=\"width: 273px;\">То же, что для стали Р18, а так же для обработки некоторых видов коррозионно-стойкой стали.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р9</td>\n<td style=\"width: 188px;\">Близкие к свойства стали Р18, но обладает лучшими механическими свойствами.</td>\n<td style=\"width: 273px;\">Для инструментов простой формы, для обработки конструкционных материалов.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р6М5, 9Х6М3Ф3АГСТ, 9Х4М3Ф2АГСТ</td>\n<td style=\"width: 188px;\">Повышенная прочность, повышенная склонность к обезуглероживанию и выгоранию молибдена.</td>\n<td style=\"width: 273px;\">Та же, что для стали Р18, но предпочтительны для изготовления резьбонарезного инструмента, а также инсрумента, работающего с ударными нагрузками.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">А11Р3АМФ2</td>\n<td style=\"width: 188px;\">Склонна к перегреву.</td>\n<td style=\"width: 273px;\">Для инструмента простой формы при обработке углеродистых и конструкционных сталей с прочностью не более 800 МПа.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р12Ф3</td>\n<td style=\"width: 188px;\">Стойкоть выше в 1,5 - 2,5 раза чем у стали Р12 и Р6М5 при средних скоростях резания.</td>\n<td style=\"width: 273px;\">Для чистовых инструментов при обработке вязких сталей, обладающих абразивными свойствами.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р6М5Ф3</td>\n<td style=\"width: 188px;\">Повышенная прочность, вязкость, износостойкость.</td>\n<td style=\"width: 273px;\">Для чистовых и получистовых инструментов (фасонные резцы, развёртки, протяжки, фрезы) при обработке углеродистых и легированных конструкционных сталей.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р9К5</td>\n<td style=\"width: 188px;\">Повышенная вторичная твёрдость.</td>\n<td style=\"width: 273px;\">Для различных инструментов при обработке коррозионно-стойких сталей и жаропрочных сплавов, а так же сталей повышенной прочности.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р18К5Ф2</td>\n<td style=\"width: 188px;\" rowspan=\"3\">Повышенная вторичная твёрость и изгносостойкость.</td>\n<td style=\"width: 273px;\">Для черновых и получистовых инструментов при обработке высокопрочных коррозионно-стойких и жаропрочных сталей и сплавов.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р6М5К5</td>\n<td style=\"width: 273px;\">Для черновых и получистовых инструментов при обработке легированных и коррозионно-стойких сталей.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р9М4К8</td>\n<td style=\"width: 273px;\">Для различных инструментов при обработке высокопрочных, жаропрочных, и коррозионно-стойких сталей и сплавов, а так же улучшенной легированной стали.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р10К5Ф5</td>\n<td style=\"width: 188px;\">Повышенная вторичная твёрдость, высокая износостойкость.</td>\n<td style=\"width: 273px;\">Для черновых и получистовых инструментов при обработке высокопрочных коррозионно-стойких и жаропрочных сталей и сплавов.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р9К10</td>\n<td style=\"width: 188px;\">Повышенная вторичная твёрдость, пониженная ударная вязкость.</td>\n<td style=\"width: 273px;\">Для различных инструментов при обработке коррозионно-стойких сталей и жаропрочных сплавов, а так же сталей повышенной прочности.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р12Ф4К5</td>\n<td style=\"width: 188px;\">Высокая прочность и вязкость, повышенная износостойкость.</td>\n<td style=\"width: 273px;\">Для чистовх и получистовых инструментов для обработки большинства марок труднообрабатываемых материалов.</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р12М3Ф2К8, Р6М5Ф2К8</td>\n<td style=\"width: 188px;\">Повышенная прочность, высокая износостойкость.</td>\n<td style=\"width: 273px;\">Для различных инструментов для обработки труднообрабатываемых материалов а так же для обработки конструкционных материалов на высоких скоростях резания</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">К10Р10М4Ф3</td>\n<td style=\"width: 188px;\">Пониженная прочность, высокая износостойкость.</td>\n<td style=\"width: 273px;\">Для инструментов простой формы для обработки труднообрабатываемых материалов, а так же для чистовых и получистовых инструментов, работающих на автоматических станках</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р6М5К5-МП</td>\n<td style=\"width: 188px;\" rowspan=\"6\">Высокая прочность на изгиб, в 1,5 -2,5 раза более высокая стойкость по сравнению с аналогичной маркой обычного производства.</td>\n<td style=\"width: 273px;\" rowspan=\"2\">Для черновых и получистовых инструментов (фрезы, свёрла, зенкеры, и др.) для обработки жаростойких и высокопрочных сталей, жаропрочных сплавов типа ХН77ТЮР</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р9К5-МП</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р9М4К8-МП</td>\n<td style=\"width: 273px;\">Для черновых и получистовых инструментов фрезы, свёрла, зенкеры и др. для обработки жаропрочных сплавов пониженной обрабатываемости типа ЖС6-КП</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р12М3К5Ф2-МП</td>\n<td style=\"width: 273px;\">Для обработки жаропрочных сталей при протягивании</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р12М3К8Ф2-МП, Р12М3К10Ф3-МП</td>\n<td style=\"width: 273px;\">Для чистовых и получистовых инструментов для обработки жаропрочных сплавовтипа ВЛЖ-12</td>\n</tr>\n<tr>\n<td style=\"width: 147px;\">Р6М5К5-МП</td>\n<td style=\"width: 273px;\">Для обработки низко- и среднелегированных сталей при фасонном точении, сверлении, развёртывании, зенкеровании, фрезеровании, зубодолблении</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p> </p>\n<p> </p>",
             "author": {
                 "name": "elena svetlova"
             },
             "tags": [
             ],
-            "date_published": "2019-07-16T19:49:29+03:00",
-            "date_modified": "2019-07-16T19:52:59+03:00"
+            "date_published": "2019-07-20T23:38:15+03:00",
+            "date_modified": "2019-07-21T00:36:53+03:00"
         },
         {
-            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html",
-            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/truba.html",
-            "title": "труба",
-            "content_html": "<img class=\"post__image\" src=\"file://C:\\Users\\Лена\\Documents\\Publii\\sites\\sinox\\preview/media/posts/4/truba.jpg\" alt=\"\" width=\"11\" height=\"100\">",
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stal-legirovannaya.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stal-legirovannaya.html",
+            "title": "Сталь легированная",
+            "summary": "Инструментальная легированная сталь изготавливается согласно ГОСТ 5950-2000. Отличительной чертой подобных сталей является повышенная износостойкость, теплостойкость и устойчивость к перегреву. Маркируются следующим образом. Цифра в марке обозначает содержание углерода (десятых процентов). Буква \"Х\" присваивается сталям, легированным хромом. Буквой \"В\" маркируются стали, легированные вольфрамом. Буква \"Г\" указывает на легирование марганцем. Назначение легированных инструментальных сталей:&hellip;",
+            "content_html": "<p>Инструментальная легированная сталь изготавливается согласно <a href=\"http://metallinoxplus.by/sites/default/files/field/image/gost5950-2000.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ГОСТ 5950-2000</a>.</p>\n<p>Отличительной чертой подобных сталей является повышенная износостойкость, теплостойкость и устойчивость к перегреву.</p>\n<p>Маркируются следующим образом. </p>\n<p><strong>Цифра </strong>в марке обозначает <strong>содержание </strong>углерода (десятых процентов).</p>\n<p>Буква \"<strong>Х</strong>\" присваивается сталям, легированным <strong>хромом</strong>.</p>\n<p>Буквой \"<strong>В</strong>\" маркируются стали, легированные <strong>вольфрамом</strong>.</p>\n<p>Буква \"<strong>Г</strong>\"  указывает на легирование <strong>марганцем</strong>.</p>\n<p>Назначение легированных инструментальных сталей:</p>\n<table class=\"marochn\" border=\"1\" cellspacing=\"0\" cellpadding=\"2\">\n<tbody>\n<tr>\n<td class=\"marochn_m_fs_verx\"><strong>Сталь</strong></td>\n<td class=\"marochn_m_fs_verx\"><strong>Назначение</strong></td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">7ХФ</td>\n<td class=\"marochn_m_fs_dan\">Деревообрабатывающий инструмент (топоры, долота, зубила), круглые и ленточные пилы со сплющенными и разведенными зубьями, инструмент для чеканки</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">8ХФ</td>\n<td class=\"marochn_m_fs_dan\">Ножи для холодной резки металла, обрезные матрицы и пуансоны, кернеры, штемпели</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">9ХФ</td>\n<td class=\"marochn_m_fs_dan\">Рамные, ленточные, круглые, строгальные пилы, ножи, обрезные матрицы и пуансоны для холодной обрезки заусенцев, кернеры, штемпели</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">11ХФ</td>\n<td class=\"marochn_m_fs_dan\">Метчики и другие режущие инструменты диаметром до 30 мм, закаливаемые в горячих средах, хирургические инструменты, штампы для холодной штамповки, пуансоны, калибры</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">13Х</td>\n<td class=\"marochn_m_fs_dan\">Вместо стали У13, У13А для мелких инструментов диаметром 1- 15 мм, чтобы иметь возможность проводить закалку в масле; для инструментов диаметром до 30-35 мм (при закалке в воду) получают более глубокий закаленный слой, чем у стали У13, У13А; назначение то же, что и у стали У13, У13А (см. табл. 6)</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">ХВ4</td>\n<td class=\"marochn_m_fs_dan\">Инструменты для чистового резания твердых материалов (отбеленный чугун, валки с закаленной поверхностью) с небольшой скоростью, граверный инструмент, прошивные пуансоны</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">В2Ф</td>\n<td class=\"marochn_m_fs_dan\">Ленточные пилы по металлу, ножовочные полотна</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">9X1</td>\n<td class=\"marochn_m_fs_dan\">Деревообрабатывающий инструмент, валки холодной прокатки, клейма, пробойники, холодновысадочные матрицы и пуансоны</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">X</td>\n<td class=\"marochn_m_fs_dan\">Токарные, строгальные и долбежные резцы, работающие при небольших скоростях резания; зубила, гладкие цилиндрические калибры и кaлибeрные кольца</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">9ХС</td>\n<td class=\"marochn_m_fs_dan\">Сверла, развертки, метчики, плашки, гребенки, фрезы; машинные штемпели; клейма; деревообрабатывающий инструмент</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">12X1</td>\n<td class=\"marochn_m_fs_dan\">Измерительные инструменты (плитки, калибры, шаблоны)</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">9ХВГ</td>\n<td class=\"marochn_m_fs_dan\">Резьбовые калибры сложной формы, штампы для холодного деформирования сложной формы, которые при закалке не должны подвергаться значительным объемным изменениям и короблению</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">ХВГ</td>\n<td class=\"marochn_m_fs_dan\">Режущие и измерительные инструменты, в том числе крупных сечений, для которых повышенное коробление при закалке недопустимо (протяжки, длинные метчики и развертки, плашки, резьбовые калибры; деревообрабатывающий инструмент; ножи для бумажной промышленности; холодновысадочные матрицы и пуансоны)</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">ХВСГ</td>\n<td class=\"marochn_m_fs_dan\">Инструмент для ручной работы (плашки, сверла, развертки, гребенки, штемпели, клейма); холодновысадочные матрицы и пуансоны; деревообрабатывающий инструмент; ножи для бумажной промышленности</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">Х6ВФ</td>\n<td class=\"marochn_m_fs_dan\">Дереворежущий фрезерный инструмент, ручные ножовочные полотна, резьбонакатной инструмент, матрицы и пуансоны холодного деформирования</td>\n</tr>\n</tbody>\n</table>\n<p>Мы предлагаем полный сортамент инструментальных легированных сталей ведущих мировых производителей.</p>\n<p>Уточнить наличие и стоимость можно по тел.: <strong>+375(29)7933152</strong>, <strong>+375(17)51-111-51</strong> или при помощи онлайн-консультанта.</p>",
             "author": {
                 "name": "elena svetlova"
             },
             "tags": [
             ],
-            "date_published": "2019-07-16T19:43:20+03:00",
-            "date_modified": "2019-07-16T19:52:28+03:00"
+            "date_published": "2019-07-20T23:37:56+03:00",
+            "date_modified": "2019-07-21T00:36:42+03:00"
         },
         {
-            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html",
-            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kalkulyator-metalla.html",
-            "title": "Калькулятор металла",
-            "content_html": "<iframe width=\"300px\" height=\"400px\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://metallicheckiy-portal.ru/servis/calcn.php?stil=5&amp;pmet=st&amp;pprok=protru\"></iframe>",
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stal-uglerodistaya.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stal-uglerodistaya.html",
+            "title": "Сталь углеродистая",
+            "summary": "Сталь инструментальная углеродистая изготавливается согласно ГОСТ-1435-99. Маркировка идет посредством условных обозначений: \"У\", \"А\", \"Г\". Буква \"У\" обозначает \"углеродистая\". Цифра после буквы \"У\" обозначает содержание углерода в стали (в десятых процента). В конце маркировки может использоваться буква \"А\", которая обозначает более высококачественные стали с меньшим процентом серы, фосфора и других примесей. Буква&hellip;",
+            "content_html": "<p id=\"mcetoc_1dg8jbgf60\">Сталь инструментальная углеродистая изготавливается согласно <a href=\"http://metallinoxplus.by/sites/default/files/field/image/gost1435-99.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">ГОСТ-1435-99</a>.</p>\n<p>Маркировка идет посредством условных обозначений: \"<strong>У</strong>\", \"<strong>А</strong>\", \"<strong>Г</strong>\".</p>\n<p>Буква \"<strong>У</strong>\" обозначает \"<strong>углеродистая</strong>\".</p>\n<p><strong>Цифра </strong>после буквы \"У\" обозначает <strong>содержание </strong>углерода в стали (в десятых процента).</p>\n<p>В конце маркировки может использоваться буква \"<strong>А</strong>\", которая обозначает более <strong>высококачественные </strong>стали с меньшим процентом серы, фосфора и других примесей.  </p>\n<p>Буква \"<strong>Г</strong>\" обозначает стали с повышенным содержанием <strong>марганца</strong>. </p>\n<p>Назначение углеродистых инструментальных сталей приведено в таблице ниже.</p>\n<table class=\"marochn\" border=\"1\" cellspacing=\"0\" cellpadding=\"2\">\n<tbody>\n<tr>\n<td class=\"marochn_m_fs_verx\"><strong>Сталь</strong></td>\n<td class=\"marochn_m_fs_verx\"><strong>Назначение</strong></td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У7, У7А</td>\n<td class=\"marochn_m_fs_dan\">Инструменты для обработки дерева - топоры, колуны, стамески, долота; пневматические инструменты небольших размеров - зубила, обжимки, бойки. Слесарно-монтажные инструменты - кусачки, плоскогубцы, острогубцы, молотки, кувалды, отвертки, бородки и др.</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У8, У8А</td>\n<td class=\"marochn_m_fs_dan\">Инструменты для обработки дерева - фрезы, зенковки, цековки, топоры, стамески, долота, продольные и дисковые пилы. Накатные ролики. Плиты и стержни для форм литья под давлением оловянно-свинцовых сплавов. Обжимки, кернеры, бородки, отвертки, плоскогубцы, острогубцы, боковые кусачки</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У9, У9А</td>\n<td class=\"marochn_m_fs_dan\">Инструменты для обработки дерева, слесарно-монтажные инструменты, калибры простой формы и пониженных классов точности</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У10, У10А</td>\n<td class=\"marochn_m_fs_dan\">Столярные пилы ручные и машинные, ручные ножовки, спиральные сверла; слесарные шаберы, напильники, накатные ролики; штампы для холодной штамповки деталей небольших размеров и простой формы; калибры простой формы и пониженных классов точности</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У11, У11А</td>\n<td class=\"marochn_m_fs_dan\">То же, а также ручные метчики, холодновысадочные пуансоны и штампы мелких размеров, калибры простой формы и пониженных классов точности</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У12, У12А</td>\n<td class=\"marochn_m_fs_dan\">То же, а также небольшие пресс-формы для пластмасс</td>\n</tr>\n<tr>\n<td class=\"marochn_m_fs_dan\">У13, У13А</td>\n<td class=\"marochn_m_fs_dan\">Инструменты повышенной износостойкости, работающие при умеренных и значительных давлениях без разогрева режущей кромки (напильники, бритвенные ножи, лезвия, острые хирургические инструменты, шаберы, гравировальные инструменты)</td>\n</tr>\n</tbody>\n</table>\n<p>Мы предлагаем полный сортамент углеродистых сталей ведущих мировых производителей.</p>\n<p>Уточнить наличие и стоимость можно по тел.: <strong>+375(29)7933152</strong>, <strong>+375(17)51-111-51</strong> или при помощи онлайн-консультанта.</p>",
             "author": {
                 "name": "elena svetlova"
             },
             "tags": [
             ],
-            "date_published": "2019-07-08T19:16:11+03:00",
-            "date_modified": "2019-07-08T19:17:56+03:00"
+            "date_published": "2019-07-20T23:37:29+03:00",
+            "date_modified": "2019-07-21T00:53:31+03:00"
         },
         {
-            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html",
-            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/nerzhaveyushchiy-metalloprokat.html",
-            "title": "Нержавеющий металлопрокат",
-            "summary": "qwqwpoqoweqwew труба фывывфвфыв",
-            "content_html": "<p>qwqwpoqoweqwew</p>\n<a href=\"truba.html\" title=\"труба\"><img src=\"file://C:\\Users\\Лена\\Documents\\Publii\\sites\\sinox\\preview/media/posts/2/truba.jpg\" alt=\"ВФЫВВФЫВ\" width=\"11\" height=\"100\"></a>\n<p><a href=\"truba.html\" title=\"цуйу\">труба</a></p>\n<p> </p>\n<h2 id=\"mcetoc_1dftr1o8e0\"><a href=\"#INTERNAL_LINK#/tag/1\">фывывфвфыв</a></h2>",
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/instrumentalnaya-stal-2.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/instrumentalnaya-stal-2.html",
+            "title": "Инструментальная сталь",
+            "summary": "&lt;top&gt;Прайс на инструментальную сталь формируется индивидуально. Заказать прайс на инструментальную сталь можно по телефону: +375 (29) 7933152 или +375 (17) 51-111-51",
+            "content_html": "<a href=\"Сталь углеродистая\">&lt;top&gt;</a>Прайс на инструментальную сталь формируется индивидуально. Заказать прайс на инструментальную сталь можно по телефону: +375 (29) 7933152 или +375 (17) 51-111-51",
             "author": {
                 "name": "elena svetlova"
             },
             "tags": [
             ],
-            "date_published": "2019-07-08T17:11:05+03:00",
-            "date_modified": "2019-07-16T19:51:24+03:00"
+            "date_published": "2019-07-20T23:36:01+03:00",
+            "date_modified": "2019-07-21T00:08:59+03:00"
         },
         {
-            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html",
-            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/main-page-with-menus.html",
-            "title": "Главная",
-            "content_html": "<img class=\"post__image\" src=\"https://bfsi.by/wp-content/uploads/2018/11/2018860-150x150.jpeg\" alt=\"Алюминий\" width=\"150\" height=\"150\">",
-            "image": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/media/posts/1/2018860-150x150.jpeg",
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kreplenie-stoek.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/kreplenie-stoek.html",
+            "title": "Крепление стоек",
             "author": {
                 "name": "elena svetlova"
             },
             "tags": [
             ],
-            "date_published": "2019-07-08T17:04:08+03:00",
-            "date_modified": "2019-07-08T19:12:49+03:00"
+            "date_published": "2019-07-20T23:35:49+03:00",
+            "date_modified": "2019-07-21T00:37:07+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stekloderzhateli.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/stekloderzhateli.html",
+            "title": "Стеклодержатели",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-20T23:35:35+03:00",
+            "date_modified": "2019-07-21T00:37:18+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/flancy-nastennye.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/flancy-nastennye.html",
+            "title": "Фланцы настенные",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-20T23:35:23+03:00",
+            "date_modified": "2019-07-21T00:37:33+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/povoroty-i-soedineniya-trub.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/povoroty-i-soedineniya-trub.html",
+            "title": "Повороты и соединения труб",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-20T23:35:10+03:00",
+            "date_modified": "2019-07-21T00:37:46+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/zaglushki.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/zaglushki.html",
+            "title": "Заглушки",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-20T23:34:54+03:00",
+            "date_modified": "2019-07-21T00:37:56+03:00"
+        },
+        {
+            "id": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/dekorativnyy-niz-stoyki.html",
+            "url": "file://C:\Users\Лена\Documents\Publii\sites\sinox\preview/dekorativnyy-niz-stoyki.html",
+            "title": "Декоративный низ стойки",
+            "author": {
+                "name": "elena svetlova"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-20T23:34:46+03:00",
+            "date_modified": "2019-07-21T00:38:07+03:00"
         }
     ]
 }
